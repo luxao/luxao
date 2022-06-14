@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luxao
+- 👋 Hi, I’m Lukáš Lobl
 - 👀 I’m interested in Web Development and Frontend apps
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on web apps

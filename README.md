@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luxao
 - 👀 I’m interested in Web Development and Frontend apps
-- 🌱 I’m currently learning Php and Vue.js
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on web apps
 - 📫 How to reach me lukas.lobll@gmail.com
 

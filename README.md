@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lukáš Lobl
-- 👀 I’m interested in Web Development and Frontend apps
-- 💞️ I’m looking to collaborate on web apps
+- 👀 I’m Full Stack Developer
 - 📫 How to reach me lukas.lobll@gmail.com
 
 <!---

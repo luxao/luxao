@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lukáš Lobl
-- 👀 I’m Full Stack Developer
+- 👀 I’m Developer
 - 📫 How to reach me lukas.lobll@gmail.com
 
 <!---
